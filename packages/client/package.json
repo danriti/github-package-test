@@ -1,0 +1,16 @@
+{
+  "name": "@danriti/client",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@danriti/types": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danriti/github-package-test.git"
+  }
+}
