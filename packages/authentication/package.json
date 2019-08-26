@@ -1,11 +1,14 @@
 {
-  "name": "@danriti/types",
-  "version": "0.3.0",
-  "description": "The types",
+  "name": "@danriti/authentication",
+  "version": "0.1.0",
+  "description": "The authentication",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@danriti/client": "0.3.0"
   },
   "repository": {
     "type": "git",
