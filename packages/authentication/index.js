@@ -1,1 +1,1 @@
-console.log('authentication is neat');
+console.log('authentication is awesome');

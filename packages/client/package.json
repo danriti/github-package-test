@@ -1,6 +1,7 @@
 {
   "name": "@danriti/client",
   "version": "0.3.1",
+  "private": true,
   "description": "The client",
   "main": "index.js",
   "scripts": {
