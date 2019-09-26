@@ -1,1 +1,1 @@
-console.log('authentication is annoying');
+console.log('authentication is wow');
